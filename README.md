@@ -1,4 +1,4 @@
-# AI based Movie Recommender System
+# Movie Recommender System
 
 A complete movie recommendation platform featuring a React frontend, Node.js/Express backend, and a FastAPI-based machine learning recommender service.
 
